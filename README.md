@@ -15,6 +15,7 @@ Here are the different locations I've tried in this repo. On each commit I have 
 **Not Working:**
 * docs/ISSUE_TEMPLATE.md
 * docs/issue_template.md
+* .docs/ISSUE_TEMPLATE.md
 * issue-template.md
 
 **Haven't Tried:**
@@ -24,3 +25,6 @@ Here are the different locations I've tried in this repo. On each commit I have 
 * .github/issue-template.md
 * docs/ISSUE-TEMPLATE.md
 * docs/issue-template.md
+* .docs/ISSUE-TEMPLATE.md
+* .docs/issue-template.md
+* .docs/issue_template.md
